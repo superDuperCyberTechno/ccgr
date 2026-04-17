@@ -1,7 +1,7 @@
 ## Hello
 *v0.9.3*
 
-Originally based on *Oh Hell!*, but tweaked heavily into something completely different. Most notably this game features an extra participant represented by the stock (to make it viable as a 2-player game), fixed hand size, simpler scoring and an alternatively enforced suit-following mechanic.
+Originally based on *Oh Hell!*, but tweaked heavily into something completely different. Most notably this game features an extra participant represented by the stock (to make it viable as a 2-player game), fixed hand size, simpler scoring and an alternatively enforced suit-following mechanic ([read this](?p=articles-thoughts_on_bad_rules)).
 
 ### Requirements
 2-6 players. A standard deck of 52 cards.

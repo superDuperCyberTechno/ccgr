@@ -1,7 +1,7 @@
 ## Thoughts on bad rules
 *v0.9.6*
 
-**Preface**: This article is full of hyperbole, unsubstantiated claims and other potentially nonsense. It does however, quite effectively convey some of the original frustrations the founder of *CCGR* experienced, leading to this project.
+**Preface**: This article is full of hyperbole, unsubstantiated claims and other nonsense. It does however, quite effectively convey some of the original frustrations the founder of *CCGR* experienced, leading to this project.
 
 There are hundreds (if not thousands) of games available for a standard 52-card deck. However, this only a half-truth: Most games are simply variants of other, older games. In fact, many related card games are so similar, that one could claim they are the same game. This is not necessarily a bad thing and it makes sense from a anthropological standpoint, cultures constantly bleeding into each other. But from a purely mathematical view, it's lazy: These 52 cards have enough embedded information to make countless more, unique games. So why don't we make them?
 Many of the well-established rules that live within regular games survive the test of time, regardless of how much sense they make. Things lurk within card games, the die-hard residue of frankly awful game design...
