@@ -1,5 +1,5 @@
 ## Seasick
-*v0.9.2*
+*v0.9.3*
 
 This game is based on the proprietary game *Sea Salt & Paper* with slight changes to accommodate a standard deck of cards.
 
@@ -20,11 +20,11 @@ At any point during a turn, players may lock a sequence by playing it face up to
 
 Face cards can also be played face up, singly. This does not earn any points, but will yield a special effect, depending on the rank played...
 - Jacks let players pick up 2 cards from the stock and add them to their hand.
-- Queens let players browse the discard pile and add a single card to their hand.
+- Queens let players browse the discard pile, take one card from it and add that card to their hand.
 - Kings let players blindly steal a card from any other player's hand and add it to their own hand.
 
 Single face cards stay in front of players, next to their locked sequences.
 
-If any player's hand size exceeds 7 during a turn, they must discard down to 7 right before the next player's turn.
+There is no limit to how many cards a player can play during their turn. If any player's hand size exceeds 7 during a turn, they must discard down to 7 right before the next player's turn.
 
 The first player to reach 10 points in locked sequences, wins the game.
