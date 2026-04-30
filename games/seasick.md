@@ -1,7 +1,7 @@
 ## Seasick
-*v0.9.3*
+*v0.9.4*
 
-This game is based on the proprietary game *Sea Salt & Paper* with slight changes to accommodate a standard deck of cards.
+This game is based on the proprietary game *Sea Salt & Paper* with slight changes to accommodate a standard deck of cards, mostly picked from the rummy family.
 
 ### Requirements
 2-4 players. A standard deck of 52 cards.
