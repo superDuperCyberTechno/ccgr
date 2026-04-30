@@ -1,10 +1,10 @@
 ## Seasick
-*v0.9.0*
+*v0.9.2*
 
 This game is based on the proprietary game *Sea Salt & Paper* with slight changes to accommodate a standard deck of cards.
 
 ### Requirements
-2-6 players. A standard deck of 52 cards.
+2-4 players. A standard deck of 52 cards.
 
 ### Goal
 Accrue 10 points by making sequences in matching suits.
