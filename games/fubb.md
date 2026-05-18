@@ -1,8 +1,8 @@
 ## Fubb
-*v1.1.5*
+*v1.1.6*
 
 A simple card shedding game with bluffing. Every turn sees an increase in rank until someone decides that enough is enough and checks the cards, restarting the round.
- Originally concieved as house rules for <i>Cheat</i>/<i>Bullshit</i>/<i>I Doubt It</i>, it evolved into its own thing. Compared to aforementioned, it has a less pronounced snowball-effect, and the winning condition forces additional considerations. In addition, it gives users more agency as it allows them to discard a variable number of cards.
+ Originally concieved as house rules for <i>Cheat</i>/<i>Bullshit</i>/<i>I Doubt It</i>, it evolved into its own thing. Compared to aforementioned, it has a less pronounced snowball-effect, and the winning condition forces additional considerations. In addition, it gives users more agency as it allows them to play a variable number of cards.
 
 ### Requirements
 2-9 players. A standard deck of 52 cards.
