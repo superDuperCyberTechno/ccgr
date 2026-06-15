@@ -1,5 +1,5 @@
 ## Fubb
-*v1.2.0*
+*v1.2.1*
 
 A simple card shedding game with bluffing. Every turn sees an increase in rank until someone decides that enough is enough and checks the cards, restarting the round.
  Originally concieved as house rules for <i>Cheat</i>/<i>Bullshit</i>/<i>I Doubt It</i>, it evolved into its own thing. Compared to aforementioned, it has a less pronounced snowball-effect, and the winning condition forces additional considerations. In addition, it gives users more agency as it allows them to play a variable number of cards.
@@ -23,3 +23,4 @@ After face down cards have been played and a rank has been announced, <i>any</i>
 
 ### Notes
 - The number of cards played have no effect on the amount of cards that can be played afterwards. It is allowed to play any amount of cards as long as the announced rank is at least as high as the last one.
+- For longer sessions, count the hand size difference (against the biggest hand size) when someone wins the game. Award points across multiple games. E.g., the winning player has zero cards and the player with the most cards in hand have 5 cards, the winner then receives 5 points (5-0). The second place player has 2 cards in hand and thus receive 3 points (5-3).
