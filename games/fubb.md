@@ -1,5 +1,5 @@
 ## Fubb
-*v1.2.1*
+*v1.2.2*
 
 A simple card shedding game with bluffing. Every turn sees an increase in rank until someone decides that enough is enough and checks the cards, restarting the round.
  Originally concieved as house rules for <i>Cheat</i>/<i>Bullshit</i>/<i>I Doubt It</i>, it evolved into its own thing. Compared to aforementioned, it has a less pronounced snowball-effect, and the winning condition forces additional considerations. In addition, it gives users more agency as it allows them to play a variable number of cards.
@@ -11,7 +11,7 @@ A simple card shedding game with bluffing. Every turn sees an increase in rank u
 Be the first to get rid of all your cards.
 
 ### Setup
-Deal each player 5 cards. Put the rest of the deck aside - face down - to form the stock.
+Deal each player 7 cards. Put the rest of the deck aside - face down - to form the stock.
 
 ### Play
 Clockwise, participants takes turns playing at least one card face down and announce a single rank. This rank must be at least as high as the one it replaces. If this is a new round (no rank to replace), any rank is valid.
