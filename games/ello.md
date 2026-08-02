@@ -1,7 +1,7 @@
 ## Ello
-*v0.9.4*
+*v0.10.0*
 
-Highly experimental. Originally based on *Oh Hell!*, but tweaked heavily into something completely different. Most notably this game features an extra participant represented by the stock (to make it viable as a 2-player game), fixed hand size, simpler scoring and an alternatively enforced suit-following mechanic ([read this](?p=articles-core_values)).
+Highly experimental. Originally based on *Oh Hell!*, but tweaked heavily into something completely different. Most notably this game features an extra participant represented by the stock (to make it viable as a 2-player game), fixed hand size, simpler scoring and a can-follow mechanic ([read this](?p=articles-core_values)).
 
 ### Requirements
 2-6 players. A standard deck of 52 cards.
@@ -10,17 +10,13 @@ Highly experimental. Originally based on *Oh Hell!*, but tweaked heavily into so
 Accrue most points.
 
 ### Setup
-All players receive 7 cards. The rest of the cards are put aside as stock (placed between 2 players) with the top card flipped and put below the stock to denote the trump suit. All players make a bet on the amount of tricks they can take, from 0 to 7. Highest bidder leads the trick, in case of a tie, the stock leads the trick. Betting happens simultaneously and players can change their bets as they please before beginning play.
+All players receive 7 cards. The rest of the cards are put aside as stock (placed between 2 players) with the top card flipped and put below the stock to denote the trump suit.
 
 ### Play
-Clockwise, each participant plays 1 card. When play passes the stock, play the top card as if it were played by a human participant. The winner of the trick is determined as follows: Highest card of the trump suit wins the trick or if no trump suited card was played, highest card of the leading suit wins the trick. Any player that can't or won't play a card in the trump, - or lead suit must play 1 card at random (card chosen blindly by the next player).
+Clockwise, one at a time, each participant plays 1 card. The winner of the trick is determined as follows: Highest card of the trump suit wins the trick or if no trump suited card was played, highest card of the leading suit wins the trick.
 
-The winner of a trick determines the leader of the next. If the stock wins the trick, discard the trick and lead the next trick with the top stock card.
+If any player can't or won't play a card that will win the current state, a card is chosen at random from their hand and played face down. Any card played like this cannot win the trick. I.e., the last played face-up card wins the trick.
 
-Any participant that took *exactly* as many tricks as they bet they would, receive that many points (E.g., betting on 3 tricks and taking exactly 3 tricks will yield 3 points). All players that bet on zero tricks and manages do so, get 7 points.
+All face-down cards played *after* the last face-up card, will be awarded to the winner as points, 1 point per card. E.g., if the second player wins the trick in a 5-player game, they get 3 face-down cards which will count as points (3 cards were played after the last winning card). If the last player won the trick, they get 0 points (no face-down cards played afterwards).
 
-Play continues until 1 player has 10 points or whenever you fucking feel like it.
-
-### Notes
-- Aces are beat by all numbered cards but beat all face cards. An ace can beat any face card and subsequently be beaten by any number card.
-- It is forbidden to play cards that are not in the trump, - or lead suit. Obviously, this rule does not pertain to stock, - or forced random plays.
+When play passes the stock, play the top card as if it were played by a human participant. Make sure to check if the revealed card is winning the trick and play the card face-down if not. Any points won by the stock are discarded. If the stock is leading a trick, simply play the top card face-up.
