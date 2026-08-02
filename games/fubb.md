@@ -16,7 +16,7 @@ Deal each player 7 cards. Put the rest of the deck aside - face down - to form t
 ### Play
 Clockwise, players choose to do one of 2 actions...
  
-**Declare: Play at least one card face down and announce a single rank. This rank must be at least as high as the one it replaces. If this is a new round (no rank to replace), any rank is valid.
+**Declare**: Play at least one card face down and announce a single rank. This rank must be at least as high as the one it replaces. If this is a new round (no rank to replace), any rank is valid.
 If *all* cards in your hand are of identical rank and you can *legally* play them (rank at least as high as the last rank), play them face up to win the game. This is the only way to win the game.
 
 After face down cards have been played and a rank has been announced, *any* player can *challenge* it. When doing so, reveal the played cards...
