@@ -1,4 +1,4 @@
-## Stiko
+## Stik
 *v0.9.2*
 
 Trick-taking game with an inverse trump mechanic that enables clever plays. Modified version of the commercial game *Stick 'Em* (AKA. *Sticheln*).
